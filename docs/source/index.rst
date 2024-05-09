@@ -23,6 +23,8 @@ Contents
 .. toctree::
    :maxdepth: 1
    :caption: Getting started
+   parameters
+   tissue_insertion
 
 .. toctree::
    :maxdepth: 1
@@ -35,3 +37,5 @@ Contents
 .. toctree::
    :maxdepth: 1
    :caption: Examples
+   tissue_insertion
+   tissue_insertion
