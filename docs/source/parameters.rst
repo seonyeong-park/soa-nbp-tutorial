@@ -1,4 +1,4 @@
-Parameters
+parameters
 ===
 
 .. autosummary::
