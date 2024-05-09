@@ -1,5 +1,5 @@
 Parameters
-=====
+==================
 
 .. autosummary::
    :toctree: generated
