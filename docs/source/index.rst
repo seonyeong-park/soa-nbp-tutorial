@@ -1,5 +1,3 @@
-.. Welcome to Lumache's documentation!
-
 SOA-NBP
 ===================================
 
@@ -21,6 +19,7 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   parameters
+   tissue_insertion
+   pde_computation
+   utils
