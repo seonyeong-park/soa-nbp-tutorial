@@ -1,4 +1,4 @@
-Usage
+Tissue insertion
 =====
 
 .. _installation:
