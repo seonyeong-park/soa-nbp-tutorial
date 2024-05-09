@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SOA-NBP'
+copyright = '2023, Computational Imaging Science Laboratory, University of Illinois at Urbana-Champaign, Seonyeong Park, Umberto Villa, Mark Anastasio'
+author = 'Seonyeong Park, Umberto Villa, Mark Anastasio'
 
 release = '0.1'
 version = '0.1.0'
