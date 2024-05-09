@@ -17,9 +17,13 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+
 .. toctree::
    :maxdepth: 1
    :caption: Getting started
+   parameters
+   tissue_insertion
+
 
 .. toctree::
    :maxdepth: 1
@@ -29,6 +33,9 @@ Contents
    pde_computation
    utils
 
+
 .. toctree::
    :maxdepth: 1
    :caption: Examples
+   tissue_insertion
+   tissue_insertion
