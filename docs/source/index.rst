@@ -20,15 +20,18 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+
 .. toctree::
    :maxdepth: 1
    :caption: Getting started
+
    parameters
    tissue_insertion
 
 .. toctree::
    :maxdepth: 1
    :caption: SOA-NBP
+
    parameters
    tissue_insertion
    pde_computation
@@ -37,5 +40,6 @@ Contents
 .. toctree::
    :maxdepth: 1
    :caption: Examples
+
    tissue_insertion
    tissue_insertion
