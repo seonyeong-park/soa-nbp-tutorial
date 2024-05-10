@@ -71,6 +71,7 @@ Predefined probability distributions of VICTRE parameters
   +-----------------------+------------------------------------------------------------------------------+
   | :math:`H_{1}`         | :math:`TN(0, 0.25, -0.3, 0.3)`                                               |
   +-----------------------+------------------------------------------------------------------------------+
+
 :math:`N(\mu,\sigma)`: Gaussian distribution with mean :math:`\mu` and standard deviation :math:`\sigma`.
 :math:`TN(\mu,\sigma,a,b)`: truncated Gaussian distribution in interval :math:`(a,b)`.
 For hemispherical shapes (:math:`a_{1t}=a_{1b}=a_{2r}=a_{2l}=a_{3}`), the :math:`\epsilon_{1}` value is set to '1,' and the :math:`B_{0}`, :math:`B_{1}`, :math:`H_{0}`, and :math:`H_{1}` values are set to '0.'
