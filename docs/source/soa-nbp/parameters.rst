@@ -101,7 +101,7 @@ Predefined probability distributions of functional properties
 | Vein       |:math:`U(75, 84)`   |:math:`f`          | 0                  | 0                       | 0                 |
 |            |                    |:math:`_{b,artery}`|                    |                         |                   |
 +------------+--------------------+-------------------+--------------------+-------------------------+-------------------+
-| VTC        | | :math:`TN(69.91,`| | :math:`TN(1.64,`| | :math:`TN(47.67,`| | :math:`100 - `        | 0                 |
+| VTC        | | :math:`TN(69.91,`| | :math:`TN(1.64,`| | :math:`TN(47.67,`| | :math:`100 -`         | 0                 |
 |            | | :math:`4.99,`    | | :math:`0.6,`    | | :math:`20.15,`   | | :math:`(f_{b,VTC}`    |                   |
 |            | | :math:`62.5,`    | | :math:`0.89,`   | | :math:`24.14,`   | | :math:`+f_{w,VTC})`   |                   |
 |            | | :math:`76.49)`   | | :math:`2.93)`   | | :math:`82.25)`   |                         |                   |
