@@ -4,6 +4,8 @@ Parameters
 Tissue types
 ------------
 
+.. table:: Tissue type parameters
+
 +-----------------------------------+-------+
 | Tissue type                       | Label |
 +===================================+=======+
@@ -41,6 +43,8 @@ Tissue types
 
 Predefined probability distributions of VICTRE parameters
 ---------------------------------------------------------
+
+.. table:: Shape and size parameters [Park2023]_
 
 +-----------------------+------------------------+--------------------------+--------------------------+
 | Paramter              | Types A and B          | Type C                   | Type D                   |
@@ -166,3 +170,6 @@ Predefined probability distributions of acoustic properties
 |                |                               | | :math:`10^{-3}`             |                                         |
 +----------------+-------------------------------+-------------------------------+-----------------------------------------+
 :sup:`a` Acoustic properties of water are consistent with an assumed temperature of 37\ :math:`^{\circ}`\ C, which is often used in breast OAT to minimize patient discomfort.
+
+
+.. [Park2023]  Seonyeong Park, Umberto Villa, Fu Li, Refik Mert Cam, Alexander A. Oraevsky, Mark A. Anastasio, "Stochastic three-dimensional numerical phantoms to enable computational studies in quantitative optoacoustic computed tomography of breast cancer," _J. Biomed. Opt._ 28(6) 066002 (20 June 2023)
