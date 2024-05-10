@@ -44,7 +44,7 @@ Tissue types
 Predefined probability distributions of VICTRE parameters
 ---------------------------------------------------------
 
-.. table:: Shape and size parameters [Park2023]_
+.. table:: Shape and size parameters
 
   +-----------------------+------------------------+--------------------------+--------------------------+
   | Paramter              | Types A and B          | Type C                   | Type D                   |
