@@ -78,12 +78,12 @@ Predefined probability distributions of functional properties
 +-----------+-----------------+-------------------+-----------------+---------------------+----------------+
 | Medium    |:math:`s` (%)    |:math:`f_b` (%)    |:math:`f_w` (%)  |:math:`f_f` (%)      |:math:`f_m` (%) |
 +===========+=================+===================+=================+=====================+================+
-| Fat/      | PDE:math:`^{a}` |:math:`TN(1.15,`   |:math:`TN(29.17,`|:math:`100 - `       | 0              |
+| Fat/      | PDE :math:`^{a}`|:math:`TN(1.15,`   |:math:`TN(29.17,`|:math:`100 - `       | 0              |
 | ligament/ |                 |:math:`0.22,`      |:math:`13.11,`   |:math:`(f_ {b,fat} ` |                |
 | TDLU/duct |                 |:math:`0.91,`      |:math:`14, 20)`  |:math:`+ f_{w,fat})` |                |
 |           |                 |:math:`1.43)`      |                 |                     |                |
 +-----------+-----------------+-------------------+-----------------+---------------------+----------------+
-| Glandular | PDE:math:`^{a}` |:math:`f_{b,fat}`  |:math:`f_{w,fat}`| 0                   | 0              |
+| Glandular | PDE :math:`^{a}`|:math:`f_{b,fat}`  |:math:`f_{w,fat}`| 0                   | 0              |
 +-----------+-----------------+-------------------+-----------------+---------------------+----------------+
 | Skin      | 98.9            | 0.39              |:math:`TN(18.68,`|:math:`TN(30.72,`    |:math:`TN(0.64,`|
 |           |                 |                   |:math:`1.34, 12,`|:math:`3.79, 12,`    |:math:`0.04,`   |
@@ -113,7 +113,7 @@ Predefined probability distributions of functional properties
 +-----------+-----------------+-------------------+-----------------+---------------------+----------------+
 | PA        | PDE:math:`^{a}` | PDE:math:`^{a}`   |:math:`f_{w,VTC}`|:math:`f_{f,VTC}`    | 0              |
 +-----------+-----------------+-------------------+-----------------+---------------------+----------------+
-:math:`^{a}`The PDE formulation creates a smooth transition for the tissue property distribution.
+:math:`^{a}` The PDE formulation creates a smooth transition for the tissue property distribution.
 
 
 Predefined probability distributions of optical properties
