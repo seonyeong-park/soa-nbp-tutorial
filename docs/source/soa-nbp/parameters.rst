@@ -4,6 +4,8 @@ Parameters
 Tissue types
 ------------
 
+The class :py:class:`tissue_type.Tissue_type`
+
 .. table:: Tissue type parameters
 
   +-----------------------------------+-------+
@@ -44,6 +46,8 @@ Tissue types
 Predefined probability distributions of VICTRE parameters
 ---------------------------------------------------------
 
+The class :py:class:`predefined_prob_dist_victre.VICTRE_param`
+
 .. table:: Shape and size parameters [Park2023]_.
 
   +-----------------------+--------------------------+----------------------------+----------------------------+
@@ -79,6 +83,8 @@ For hemispherical shapes (:math:`a_{1t}=a_{1b}=a_{2r}=a_{2l}=a_{3}`), the :math:
 
 Predefined probability distributions of functional properties
 -------------------------------------------------------------
+
+The class :py:class:`predefined_prob_dist_func.Func_prop`
 
 .. table:: Functional properties of breast tissues and lesion [Park2023]_.
 
@@ -122,6 +128,8 @@ Predefined probability distributions of functional properties
 Predefined probability distributions of optical properties
 ----------------------------------------------------------
 
+The class :py:class:`predefined_prob_dist_opt.Opt_prop`
+
 .. table:: Scattering coefficient parameters, scattering anisotropy, and refractive index of breast tissues and lesion [Park2023]_.
 
   +------------------------+---------------------------------------------+----------------+---------+---------+
@@ -142,6 +150,8 @@ A reference wavelength (\ :math:`\lambda_{ref}`) is 500 nm.
 
 Predefined probability distributions of acoustic properties
 -----------------------------------------------------------
+
+The class :py:class:`predefined_prob_dist_acou.Acou_prop`
 
 .. table:: Acoustic properties of breast tissues and lesion [Park2023]_.
 
@@ -177,4 +187,13 @@ Predefined probability distributions of acoustic properties
 :sup:`a` Acoustic properties of water are consistent with an assumed temperature of 37\ :math:`^{\circ}`\ C, which is often used in breast OAT to minimize patient discomfort.
 
 
-.. [Park2023]  Seonyeong Park, Umberto Villa, Fu Li, Refik Mert Cam, Alexander A. Oraevsky, Mark A. Anastasio, "Stochastic three-dimensional numerical phantoms to enable computational studies in quantitative optoacoustic computed tomography of breast cancer," *J. Biomed. Opt.* 28(6) 066002 (20 June 2023) https://doi.org/10.1117/1.JBO.28.6.066002
+.. [Park2023] Seonyeong Park, Umberto Villa, Fu Li, Refik Mert Cam, Alexander A. Oraevsky, Mark A. Anastasio, "Stochastic three-dimensional numerical phantoms to enable computational studies in quantitative optoacoustic computed tomography of breast cancer," *J. Biomed. Opt.* 28(6) 066002 (20 June 2023) https://doi.org/10.1117/1.JBO.28.6.066002
+.. [Park2020] Seonyeong Park, Umberto Villa, Richard Su, Alexander Oraevsky, Frank J. Brooks, Mark A. Anastasio, "Realistic three-dimensional optoacoustic tomography imaging trials using the VICTRE breast phantom of FDA (Conference Presentation)," *Proc. SPIE 11240, Photons Plus Ultrasound: Imaging and Sensing 2020*, 112401H (6 March 2020) https://doi.org/10.1117/12.2552380          
+.. [ETB] The Engineering ToolBox, "Water - speed of sound vs. temperature," https://www.engineeringtoolbox.com/sound-speed-water-d_598.html (2004)
+.. [Hasgall] P. A. Hasgall, "IT'IS database for thermal and electromagnetic parameters of biological tissues," https://www.itis.swiss/database (2018)
+.. [Malik] B. Malik et al., "Objective breast tissue image classification using quantitative transmission ultrasound tomography," *Sci. Rep.*, 6 1-8 SRCEC3 2045-2322 (2016)
+.. [Klock] J. C. Klock et al., "Anatomy-correlated breast imaging and visual grading analysis using quantitative transmission ultrasound\ :sup:`TM`\ ," *Int. J. Biomed. Imaging*, 2016 1-9 https://doi.org/10.1038/srep38857 (2016)
+.. [Li2009] C. Li et al., "In vivo breast sound-speed imaging with ultrasound tomography," *Ultrasound Med. Biol.*, 35 1615-1628 https://doi.org/10.1016/j.ultrasmedbio.2009.05.011 USMBA3 0301-5629 (2009)
+.. [Sanchez] A. Sanchez, C. Mills and J. Scurr, "Estimating breast mass-density: a retrospective analysis of radiological data," *Breast J.*, 23 237-239 https://doi.org/10.1111/tbj.12725 BRJOFK 1075-122X (2017)
+.. [André] M. André, J. Wiskin and D. Borup, Clinical Results with Ultrasound Computed Tomography of the Breast, 395-432 Springer Netherlands, Dordrecht (2013)
+.. [Li2022] F. Li et al., "3-D stochastic numerical breast phantoms for enabling virtual imaging trials of ultrasound computed tomography," *IEEE Trans. Ultrason. Ferroelectr. Freq. Control*, 69, 135-146 https://doi.org/10.1109/TUFFC.2021.3112544 ITUCER 0885-3010 (2022)
