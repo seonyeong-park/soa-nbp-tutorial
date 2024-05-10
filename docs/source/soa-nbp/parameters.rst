@@ -75,6 +75,8 @@ For hemispherical shapes (:math:`a_{1t}=a_{1b}=a_{2r}=a_{2l}=a_{3}`), the :math:
 Predefined probability distributions of functional properties
 -------------------------------------------------------------
 
+.. table:: Functional properties of breast tissues and lesion
+    :widths: 20 40 40 40 40 40
 +-----------+-----------------+-------------------+-----------------+---------------------+----------------+
 | Medium    |:math:`s` (%)    |:math:`f_b` (%)    |:math:`f_w` (%)  |:math:`f_f` (%)      |:math:`f_m` (%) |
 +===========+=================+===================+=================+=====================+================+
