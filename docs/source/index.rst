@@ -19,28 +19,6 @@ how to :ref:`installation` the project.
    This project is under active development.
 
 
-Contents
---------
+.. Contents
+.. --------
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Getting started
-
-   parameters
-   tissue_insertion
-
-.. toctree::
-   :maxdepth: 1
-   :caption: SOA-NBP
-
-   soa-nbp/parameters
-   soa-nbp/tissue-insertion
-   soa-nbp/pde-computation
-   soa-nbp/utils
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Examples
-
-   examples/healthy-anat-nbp.rst
-   examples/lesion-inserted-anat-nbp.rst
