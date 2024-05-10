@@ -59,13 +59,13 @@ Predefined probability distributions of VICTRE parameters
 +-----------------------+-------------------------+-------------------------+--------------------------+
 | :math:`\epsilon_{1}`  | :math:`N(1, 0.1)`                                                            |
 +-----------------------+------------------------------------------------------------------------------+
-| :math:`B_{0}`         | :math:`TN(0, 0.1, \shortminus0.18, 0.18)`                                    |
+| :math:`B_{0}`         | :math:`TN(0, 0.1, \shortminus 0.18, 0.18)`                                   |
 +-----------------------+------------------------------------------------------------------------------+
-| :math:`B_{1}`         | :math:`TN(0, 0.1, \shortminus0.18, 0.18)`                                    |
+| :math:`B_{1}`         | :math:`TN(0, 0.1, \shortminus 0.18, 0.18)`                                   |
 +-----------------------+------------------------------------------------------------------------------+
-| :math:`H_{0}`         | :math:`TN(0, 0.15, \shortminus0.11, 0.11)`                                   |
+| :math:`H_{0}`         | :math:`TN(0, 0.15, \shortminus 0.11, 0.11)`                                  |
 +-----------------------+------------------------------------------------------------------------------+
-| :math:`H_{1}`         | :math:`TN(0, 0.25, \shortminus0.3, 0.3)`                                     |
+| :math:`H_{1}`         | :math:`TN(0, 0.25, \shortminus 0.3, 0.3)`                                    |
 +-----------------------+------------------------------------------------------------------------------+
 :math:`N(\mu,\sigma)`: Gaussian distribution with mean :math:`\mu` and standard deviation :math:`\sigma`.
 :math:`TN(\mu,\sigma,a,b)`: truncated Gaussian distribution in interval :math:`(a,b)`.
@@ -163,6 +163,6 @@ Predefined probability distributions of acoustic properties
 +----------------+-------------------------------+-------------------------------+-----------------------------------------+
 | | VTC/necrotic | | :math:`TN(1.548, 0.01,`     | | :math:`TN(0.945, 0.02,`     |:math:`N(0.269, 0.02)`                   |
 | | core         | | :math:`1.531, 1.565)`       | | :math:`0.911, 0.999) \times`|                                         |
-|                |                               | | :math:`10^{\shortminus3}`   |                                         |
+|                |                               | | :math:`10^{\shortminus 3}`  |                                         |
 +----------------+-------------------------------+-------------------------------+-----------------------------------------+
 :sup:`a` Acoustic properties of water are consistent with an assumed temperature of 37\ :math:`^{\circ}`\ C, which is often used in breast OAT to minimize patient discomfort.
