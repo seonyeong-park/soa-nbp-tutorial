@@ -4,7 +4,7 @@ Parameters
 Tissue types
 ------------
 
-The class :py:class:`tissue_type.Tissue_type`
+The class :py:class:`parameters.Tissue_type`
 
 .. table:: Tissue type parameters
 
@@ -46,7 +46,7 @@ The class :py:class:`tissue_type.Tissue_type`
 Predefined probability distributions of VICTRE parameters
 ---------------------------------------------------------
 
-The class :py:class:`predefined_prob_dist_victre.VICTRE_param`
+The class :py:class:`parameters.VICTRE_param`
 
 .. table:: Shape and size parameters [Park2023]_.
 
@@ -84,7 +84,7 @@ For hemispherical shapes (:math:`a_{1t}=a_{1b}=a_{2r}=a_{2l}=a_{3}`), the :math:
 Predefined probability distributions of functional properties
 -------------------------------------------------------------
 
-The class :py:class:`predefined_prob_dist_func.Func_prop`
+The class :py:class:`parameters.Func_prop`
 
 .. table:: Functional properties of breast tissues and lesion [Park2023]_.
 
@@ -128,7 +128,7 @@ The class :py:class:`predefined_prob_dist_func.Func_prop`
 Predefined probability distributions of optical properties
 ----------------------------------------------------------
 
-The class :py:class:`predefined_prob_dist_opt.Opt_prop`
+The class :py:class:`parameters.Opt_prop`
 
 .. table:: Scattering coefficient parameters, scattering anisotropy, and refractive index of breast tissues and lesion [Park2023]_.
 
@@ -151,7 +151,7 @@ A reference wavelength (\ :math:`\lambda_{ref}`) is 500 nm.
 Predefined probability distributions of acoustic properties
 -----------------------------------------------------------
 
-The class :py:class:`predefined_prob_dist_acou.Acou_prop`
+The class :py:class:`parameters.Acou_prop`
 
 .. table:: Acoustic properties of breast tissues and lesion [Park2023]_.
 
