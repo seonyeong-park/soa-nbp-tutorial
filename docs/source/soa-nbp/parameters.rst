@@ -1,7 +1,7 @@
 Parameters
 ==========
 
-parameters.tissue_type
+../../../parameters/tissue_type.py
 
 Tissue types
 ------------
