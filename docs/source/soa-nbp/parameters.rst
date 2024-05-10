@@ -1,6 +1,8 @@
 Parameters
 ==========
 
+parameters.tissue_type
+
 Tissue types
 ------------
 
