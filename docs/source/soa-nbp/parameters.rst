@@ -172,4 +172,4 @@ Predefined probability distributions of acoustic properties
 :sup:`a` Acoustic properties of water are consistent with an assumed temperature of 37\ :math:`^{\circ}`\ C, which is often used in breast OAT to minimize patient discomfort.
 
 
-.. [Park2023]  Seonyeong Park, Umberto Villa, Fu Li, Refik Mert Cam, Alexander A. Oraevsky, Mark A. Anastasio, "Stochastic three-dimensional numerical phantoms to enable computational studies in quantitative optoacoustic computed tomography of breast cancer," _J. Biomed. Opt._ 28(6) 066002 (20 June 2023)
+.. [Park2023]  Seonyeong Park, Umberto Villa, Fu Li, Refik Mert Cam, Alexander A. Oraevsky, Mark A. Anastasio, "Stochastic three-dimensional numerical phantoms to enable computational studies in quantitative optoacoustic computed tomography of breast cancer," *J. Biomed. Opt.* 28(6) 066002 (20 June 2023) https://doi.org/10.1117/1.JBO.28.6.066002
