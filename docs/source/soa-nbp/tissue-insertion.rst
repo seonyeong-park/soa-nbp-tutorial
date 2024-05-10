@@ -1,34 +1,17 @@
 Tissue insertion 
-==================
+================
 
-.. _installation:
+Blood vessels under skin
+------------------------
 
-Installation
-------------
+The function :py:func:`tissue_insertion.InsertBloodVesselUnderSkin(config: object, labelmap: np.ndarray, sigma1=31, sigma2=49, sigma3=1.75) -> np.ndarray` inserts blood vessels under skin layer in the given tissue label map and returns the resulting map.
 
-To use Lumache, first install it using pip:
+Two layer skin model
+--------------------
 
-.. code-block:: console
+The function :py:func:`tissue_insertion.InsertTwoLayerSkin(config: object, labelmap: np.ndarray) -> np.ndarray` inserts a two-layer skin model, consisting of dermis and epidermis layers, into the given tissue label map and returns the resulting map.
 
-   (.venv) $ pip install lumache
+Lesion
+------
 
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+The function :py:func:`tissue_insertion.InsertLesion(config: object, labelmap: np.ndarray, labelmap_pa: np.ndarray, lsn_type: str, choose_lsn_loc: bool, lsn_loc=[]) -> tuple`
