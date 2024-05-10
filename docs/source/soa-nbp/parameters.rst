@@ -44,7 +44,7 @@ Tissue types
 Predefined probability distributions of VICTRE parameters
 ---------------------------------------------------------
 
-.. table:: Shape and size parameters [Park2023]_
+.. table:: Shape and size parameters [Park2023]_.
 
   +-----------------------+------------------------+--------------------------+--------------------------+
   | Paramter              | Types A and B          | Type C                   | Type D                   |
@@ -79,7 +79,7 @@ For hemispherical shapes (:math:`a_{1t}=a_{1b}=a_{2r}=a_{2l}=a_{3}`), the :math:
 Predefined probability distributions of functional properties
 -------------------------------------------------------------
 
-.. table:: Functional properties of breast tissues and lesion [Park2023]_
+.. table:: Functional properties of breast tissues and lesion [Park2023]_.
 
   +------------+--------------------+-------------------+--------------------+-------------------------+-------------------+
   | Medium     |:math:`s` (%)       |:math:`f_b` (%)    |:math:`f_w` (%)     |:math:`f_f` (%)          |:math:`f_m` (%)    |
@@ -123,7 +123,7 @@ Predefined probability distributions of functional properties
 Predefined probability distributions of optical properties
 ----------------------------------------------------------
 
-.. table:: Scattering coefficient parameters, scattering anisotropy, and refractive index of breast tissues and lesion [Park2023]_
+.. table:: Scattering coefficient parameters, scattering anisotropy, and refractive index of breast tissues and lesion [Park2023]_.
 
   +------------------------+---------------------------------------------+----------------+---------+---------+
   | Medium                 |:math:`\mu_s'(\lambda_{ref})` (mm\ :sup:`-1`)|:math:`b`       |:math:`g`|:math:`n`|
@@ -144,7 +144,7 @@ A reference wavelength (\ :math:`\lambda_{ref}`) is 500 nm.
 Predefined probability distributions of acoustic properties
 -----------------------------------------------------------
 
-.. table:: Acoustic properties of breast tissues and lesion [Park2023]_
+.. table:: Acoustic properties of breast tissues and lesion [Park2023]_.
 
   +----------------+-------------------------------+-------------------------------+-----------------------------------------+
   | Medium         |:math:`c` (mm/\ :math:`\mu`\ s)|:math:`\rho` (g/mm\ :sup:`3`)  |:math:`\alpha_{0}` (dB/MHz\ :sup:`y`\ mm)|
