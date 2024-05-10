@@ -1,7 +1,14 @@
 Parameters
 ==========
 
-../../../parameters/tissue_type.py
+.. automodule:: parameters.tissue_type
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+.. literalinclude:: ../../../parameters/tissue_type.py
+   :language: python
+   :lines: 1-
 
 Tissue types
 ------------
