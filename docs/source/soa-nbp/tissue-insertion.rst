@@ -6,6 +6,13 @@ Blood vessels under skin
 
 The function :py:func:`tissue_insertion.InsertBloodVesselUnderSkin(config: object, labelmap: np.ndarray, sigma1=31, sigma2=49, sigma3=1.75) -> np.ndarray` inserts blood vessels under skin layer in the given tissue label map and returns the resulting map.
 
+.. image:: https://www.spiedigitallibrary.org/ContentImages/Journals/JBOPFO/28/6/066002/WebImages/JBO_28_6_066002_f002.png
+   :width: 600
+   :alt: Blood vessels in NBP
+   :align: center
+
+.. Blood vessels in an NBP (type B, left breast) with (a and d) and without (b and e) blood vasculature customization and (c) a clinical OAT image acquired by TomoWave Laboratories employing LOUISA-3D3 at the MD Anderson Cancer Center and postprocessed to extract blood vascular structures.33 Paraview40 was used for volume rendering.
+
 Two layer skin model
 --------------------
 
