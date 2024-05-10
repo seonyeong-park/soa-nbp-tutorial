@@ -1,15 +1,10 @@
 SOA-NBP
 ===================================
 
-.. image:: logo2.png
-   :width: 400
+.. image:: images/logo1.svg
+   :width: 600
    :alt: SOA-NBP
    :align: center
-<<<<<<< HEAD
-
-Welcome to the SOA-NBP documentation!
-=======
->>>>>>> fbec9b3 (logo3.svg)
 
 Stochastic Optoacoustic Numerical Breast Phantom (**SOA-NBP**) is a software framework to stochastically generate three-dimensional (3D) distributions of the *functional*, *optical*, and *acousitc properties* of breasts and lesions for use in computational studies of **optical**, **acoustic**, and **optoacoustic (OA) imaging**, also known as **photoacoustic imaging**. The functional, optical, and acoustic numerical breast phatnoms (NBPs) are seperately established via assignmnet of the specific properties of breasts to each tissue type in the anatomical NBPs.
 
@@ -35,14 +30,14 @@ Contents
    :maxdepth: 1
    :caption: SOA-NBP
 
-   parameters
-   tissue_insertion
-   pde_computation
-   utils
+   soa-nbp/parameters
+   soa-nbp/tissue-insertion
+   soa-nbp/pde-computation
+   soa-nbp/utils
 
 .. toctree::
    :maxdepth: 1
    :caption: Examples
 
-   tissue_insertion
-   tissue_insertion
+   examples/healthy-anat-nbp.rst
+   examples/lesion-inserted-anat-nbp.rst
