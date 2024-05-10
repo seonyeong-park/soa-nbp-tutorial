@@ -111,7 +111,7 @@ Predefined probability distributions of functional properties
 | Necrotic  |:math:`s_{VTC}`  | 0                 |:math:`f_{w,VTC}`|:math:`f_{f,VTC}`    | 0              |
 | core      |                 |                   |                 |                     |                |
 +-----------+-----------------+-------------------+-----------------+---------------------+----------------+
-| PA        | PDE:math:`^{a}` | PDE:math:`^{a}`   |:math:`f_{w,VTC}`|:math:`f_{f,VTC}`    | 0              |
+| PA        | PDE:sup:`a`     | PDE:sup:`a`       |:math:`f_{w,VTC}`|:math:`f_{f,VTC}`    | 0              |
 +-----------+-----------------+-------------------+-----------------+---------------------+----------------+
 :sup:`a` The PDE formulation creates a smooth transition for the tissue property distribution.
 
